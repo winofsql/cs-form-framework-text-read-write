@@ -8,6 +8,7 @@ namespace cs_form_text_read_write {
         public Form1()
         {
             InitializeComponent();
+            Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
         }
 
         private void read_button_Click(object sender, EventArgs e)
