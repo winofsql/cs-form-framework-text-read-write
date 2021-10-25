@@ -3,7 +3,7 @@ using System.IO;
 using System.Text;
 using System.Windows.Forms;
 
-namespace cs_form_framework_text_read_write {
+namespace cs_form_text_read_write {
     public partial class Form1 : Form {
         public Form1()
         {
