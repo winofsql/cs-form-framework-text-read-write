@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace cs_form_framework_text_read_write {
+namespace cs_form_text_read_write {
     static class Program {
         /// <summary>
         /// アプリケーションのメイン エントリ ポイントです。
