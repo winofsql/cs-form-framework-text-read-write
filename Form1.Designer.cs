@@ -1,5 +1,5 @@
 ﻿
-namespace cs_form_framework_text_read_write {
+namespace cs_form_text_read_write {
     partial class Form1 {
         /// <summary>
         /// 必要なデザイナー変数です。
